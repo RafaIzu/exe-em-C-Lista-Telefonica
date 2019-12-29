@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575232775 source:d:\analise e desenvolvimento de sistemas\linguagem c\structs\lista telefonica mk v\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
